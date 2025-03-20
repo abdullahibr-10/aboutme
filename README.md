@@ -1,2 +1,1 @@
-# html-freebie-portfolio-perfect
-One page template, a great choice for creating a personal portfolio website, including services, projects and contact form with nice and smooth scrolling through the sections. Modern and clean HTML5 template, perfect for your online CV.
+This repository is for my personal website. This will serve as an entry point to my digital life, my works and my pastimes. 
